@@ -2,7 +2,7 @@
 
 Crypto researcher with a focus on Ethereum. I share reproducible technical findings and maintain small open-source tools.
 
-[X / @Pashus07](https://x.com/Pashus07) · [GitHub Activity Report](https://github.com/Crypto-Kucherov/crypto-dapp)
+[X / @Pashus07](https://x.com/Pashus07) · [Legion profile](https://app.legion.cc/profile/c883c143-c169-49da-a4b2-0bff8afe8adc) · [GitHub Activity Report](https://github.com/Crypto-Kucherov/crypto-dapp)
 
 ## Current project
 
